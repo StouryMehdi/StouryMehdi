@@ -1,1 +1,1 @@
-<a href="https://app.daily.dev/Mehdistoury"><img src="https://api.daily.dev/devcards/d61eeae2f2b04fab892cf1942750e511.png?r=x7v" width="400" alt="Mehdi Stoury's Dev Card"/></a>
+<a href="https://app.daily.dev/mehdistoury"><img src="https://api.daily.dev/devcards/v2/LYsF36ng3Py7ltz2GTbnP.png?type=default&r=hf1" width="356" alt="Mehdi Stoury's Dev Card"/></a>
